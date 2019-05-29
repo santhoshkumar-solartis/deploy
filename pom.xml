@@ -93,7 +93,7 @@
                             <goal>run</goal>  
                         </goals>  
                         <configuration>  
-                            <jbossHome>\\192.168.6.199\e\DevOps_new\softwares\jboss-eap-6.4.0</jbossHome>  
+                            <jbossHome>\\192.168.6.199\e\DevOps_new\softwares\jboss-eap-6.4.0\jboss-eap-6.4</jbossHome>  
                             <hostname>192.168.6.199</hostname>  
                             <username>root</username>  
                             <password>Subh@8189</password>  
@@ -132,7 +132,7 @@
             </container>
             <configuration>
               <type>remote</type>
-              <home>\\192.168.6.199\e\DevOps_new\softwares\jboss-eap-6.4.0</home>
+              <home>\\192.168.6.199\e\DevOps_new\softwares\jboss-eap-6.4.0\jboss-eap-6.4</home>
               <serverName>default</serverName>
                <configuration>
             <hostname>192.168.6.199</hostname>
