@@ -97,9 +97,6 @@
                             <hostname>192.168.6.199</hostname>  
                             <username>root</username>  
                             <password>Subh@8189</password>  
-                          <server-groups>
-                        <server-group>main-server-group</server-group>
-                    </server-groups>
                         </configuration>  
                     </execution>  
                     <execution>  
