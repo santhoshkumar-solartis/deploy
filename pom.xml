@@ -93,10 +93,10 @@
                             <goal>run</goal>  
                         </goals>  
                         <configuration>  
-                            <jbossHome>D:\jboss-eap-6.4.0\jboss-eap-6.4</jbossHome>  
-                            <hostname>localhost</hostname>  
-                            <username>santhosh</username>  
-                            <password>welcome*1</password>  
+                            <jbossHome>\\192.168.6.199\e\DevOps_new\softwares\jboss-eap-6.4.0</jbossHome>  
+                            <hostname>192.168.6.199</hostname>  
+                            <username>root</username>  
+                            <password>Subh@8189</password>  
                           <server-groups>
                         <server-group>main-server-group</server-group>
                     </server-groups>
@@ -132,14 +132,14 @@
             </container>
             <configuration>
               <type>remote</type>
-              <home>D:\jboss-eap-6.4.0\jboss-eap-6.4</home>
+              <home>\\192.168.6.199\e\DevOps_new\softwares\jboss-eap-6.4.0</home>
               <serverName>default</serverName>
                <configuration>
-            <hostname>localhost</hostname>
-            <port>8081</port>
+            <hostname>192.168.6.199</hostname>
+            <port>9080</port>
             <name>hello_Project-0.0.1-SNAPSHOT.war</name>
-            <username>santhosh</username>
-            <password>welcome*1</password>
+            <username>root</username>
+            <password>Subh@8189</password>
         </configuration>
             </configuration>
           </configuration>
