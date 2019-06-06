@@ -124,14 +124,14 @@
           <version>1.0</version>
           <configuration>
             <!-- Container configuration -->
-           <!-- <container>
+            <container>
               <containerId>jboss6x</containerId>
             </container>
             <configuration>
               <type>remote</type>
-              <home>\\192.168.6.199\e\DevOps_new\softwares\jboss-eap-6.4.0\jboss-eap-6.4</home>
+              <!--<home>\\192.168.6.199\e\DevOps_new\softwares\jboss-eap-6.4.0\jboss-eap-6.4</home>-->
               <serverName>default</serverName>
-               <configuration>-->
+               <configuration>
             <hostname>192.168.6.30</hostname>
             <port>9990</port>
             <name>hello_Project-0.0.1-SNAPSHOT.war</name>
